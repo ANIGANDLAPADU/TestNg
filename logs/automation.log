@@ -1,0 +1,119 @@
+09:06:41.333 [main] INFO  testbase.Registration - Driver Instance Created
+09:06:46.902 [main] INFO  testbase.Registration - opened Opened URL
+09:08:40.168 [main] INFO  testbase.Registration - Driver Instance Created
+09:08:47.145 [main] INFO  testbase.Registration - opened Opened URL
+09:08:47.159 [main] INFO  testbase.Registration - Added wait Command
+09:32:33.008 [main] INFO  testbase.Registration - Driver Instance Created
+09:32:40.164 [main] INFO  testbase.Registration - opened Opened URL
+09:32:40.179 [main] INFO  testbase.Registration - Added wait Command
+09:32:40.300 [main] INFO  testbase.Registration - register Object is created ...
+14:48:35.911 [main] INFO  testbase.Registration - Driver Instance Created
+14:48:41.780 [main] INFO  testbase.Registration - opened Opened URL
+14:48:41.801 [main] INFO  testbase.Registration - Added wait Command
+14:48:41.944 [main] INFO  testbase.Registration - register Object is created ...
+14:51:12.970 [main] INFO  testbase.Registration - Driver Instance Created
+14:51:21.558 [main] INFO  testbase.Registration - opened Opened URL
+14:51:21.574 [main] INFO  testbase.Registration - Added wait Command
+14:51:22.544 [main] INFO  testbase.Registration - register Object is created ...
+14:53:32.893 [main] INFO  testbase.Registration - Driver Instance Created
+14:53:41.959 [main] INFO  testbase.Registration - opened Opened URL
+14:53:41.971 [main] INFO  testbase.Registration - Added wait Command
+14:53:42.520 [main] INFO  testbase.Registration - register Object is created ...
+14:54:31.246 [main] INFO  testbase.Registration - Driver Instance Created
+14:54:37.519 [main] INFO  testbase.Registration - opened Opened URL
+14:54:37.534 [main] INFO  testbase.Registration - Added wait Command
+14:54:38.046 [main] INFO  testbase.Registration - register Object is created ...
+14:57:10.253 [main] INFO  testbase.Registration - Driver Instance Created
+14:57:16.181 [main] INFO  testbase.Registration - opened Opened URL
+14:57:16.203 [main] INFO  testbase.Registration - Added wait Command
+14:57:17.013 [main] INFO  testbase.Registration - register Object is created ...
+15:17:06.325 [main] INFO  testbase.Registration - Driver Instance Created
+15:17:12.991 [main] INFO  testbase.Registration - opened Opened URL
+15:17:13.005 [main] INFO  testbase.Registration - Added wait Command
+15:17:14.056 [main] INFO  testbase.Registration - register Object is created ...
+15:18:17.478 [main] INFO  testbase.Registration - Driver Instance Created
+15:18:25.971 [main] INFO  testbase.Registration - opened Opened URL
+15:18:25.990 [main] INFO  testbase.Registration - Added wait Command
+15:18:27.102 [main] INFO  testbase.Registration - register Object is created ...
+15:26:58.755 [main] INFO  testbase.Registration - Driver Instance Created
+15:27:05.691 [main] INFO  testbase.Registration - opened Opened URL
+15:27:05.707 [main] INFO  testbase.Registration - Added wait Command
+15:27:06.873 [main] INFO  testbase.Registration - register Object is created ...
+15:27:58.707 [main] INFO  testbase.Registration - Driver Instance Created
+15:28:05.894 [main] INFO  testbase.Registration - opened Opened URL
+15:28:05.910 [main] INFO  testbase.Registration - Added wait Command
+15:28:07.118 [main] INFO  testbase.Registration - register Object is created ...
+15:30:16.236 [main] INFO  testbase.Registration - Driver Instance Created
+15:30:23.470 [main] INFO  testbase.Registration - opened Opened URL
+15:30:23.485 [main] INFO  testbase.Registration - Added wait Command
+15:30:24.679 [main] INFO  testbase.Registration - register Object is created ...
+15:31:29.316 [main] INFO  testbase.Registration - Driver Instance Created
+15:31:36.630 [main] INFO  testbase.Registration - opened Opened URL
+15:31:36.650 [main] INFO  testbase.Registration - Added wait Command
+15:31:36.925 [main] INFO  testbase.Registration - register Object is created ...
+16:00:36.121 [main] INFO  testbase.Registration - Driver Instance Created
+16:00:45.833 [main] INFO  testbase.Registration - opened Opened URL
+16:00:45.862 [main] INFO  testbase.Registration - Added wait Command
+16:00:46.172 [main] INFO  testbase.Registration - register Object is created ...
+16:04:14.298 [main] INFO  testbase.Registration - Driver Instance Created
+16:04:23.593 [main] INFO  testbase.Registration - opened Opened URL
+16:04:23.603 [main] INFO  testbase.Registration - Added wait Command
+16:04:23.872 [main] INFO  testbase.Registration - register Object is created ...
+16:05:24.406 [main] INFO  testbase.Registration - Driver Instance Created
+16:05:32.298 [main] INFO  testbase.Registration - opened Opened URL
+16:05:32.322 [main] INFO  testbase.Registration - Added wait Command
+16:05:32.616 [main] INFO  testbase.Registration - register Object is created ...
+16:12:44.060 [main] INFO  testbase.Registration - Driver Instance Created
+16:12:54.744 [main] INFO  testbase.Registration - opened Opened URL
+16:12:54.757 [main] INFO  testbase.Registration - Added wait Command
+16:12:55.065 [main] INFO  testbase.Registration - register Object is created ...
+16:14:48.054 [main] INFO  testbase.Registration - Driver Instance Created
+16:14:58.232 [main] INFO  testbase.Registration - opened Opened URL
+16:14:58.247 [main] INFO  testbase.Registration - Added wait Command
+16:14:58.532 [main] INFO  testbase.Registration - register Object is created ...
+16:18:04.078 [main] INFO  testbase.Registration - Driver Instance Created
+16:18:14.122 [main] INFO  testbase.Registration - opened Opened URL
+16:18:14.139 [main] INFO  testbase.Registration - Added wait Command
+16:18:14.407 [main] INFO  testbase.Registration - register Object is created ...
+16:20:15.533 [main] INFO  testbase.Registration - Driver Instance Created
+16:20:24.693 [main] INFO  testbase.Registration - opened Opened URL
+16:20:24.706 [main] INFO  testbase.Registration - Added wait Command
+16:20:24.972 [main] INFO  testbase.Registration - register Object is created ...
+16:46:04.238 [main] INFO  testbase.Registration - Driver Instance Created
+16:46:11.958 [main] INFO  testbase.Registration - opened Opened URL
+16:46:11.977 [main] INFO  testbase.Registration - Added wait Command
+16:46:12.258 [main] INFO  testbase.Registration - register Object is created ...
+07:52:34.502 [main] INFO  com.selenium.TestCase.Registration - Driver Instance Created
+07:52:42.039 [main] INFO  com.selenium.TestCase.Registration - opened The URL
+07:52:42.051 [main] INFO  com.selenium.TestCase.Registration - Added wait Command
+07:52:42.177 [main] INFO  com.selenium.TestCase.Registration - maximizing the Window
+07:52:42.293 [main] INFO  com.selenium.TestCase.Registration - register Object is created ...
+07:58:05.885 [main] INFO  com.selenium.TestCase.Registration - Driver Instance Created
+07:58:11.614 [main] INFO  com.selenium.TestCase.Registration - opened The URL
+07:58:11.627 [main] INFO  com.selenium.TestCase.Registration - Added wait Command
+07:58:11.772 [main] INFO  com.selenium.TestCase.Registration - maximizing the Window
+07:58:11.874 [main] INFO  com.selenium.TestCase.Registration - register Object is created ...
+09:03:00.592 [main] INFO  com.selenium.TestCase.Registration - Driver Instance Created
+09:03:07.592 [main] INFO  com.selenium.TestCase.Registration - opened The URL
+09:03:07.606 [main] INFO  com.selenium.TestCase.Registration - Added wait Command
+09:03:07.745 [main] INFO  com.selenium.TestCase.Registration - maximizing the Window
+09:03:20.937 [main] INFO  com.selenium.TestCase.Registration - Driver Instance Created
+09:03:26.431 [main] INFO  com.selenium.TestCase.Registration - opened The URL
+09:03:26.441 [main] INFO  com.selenium.TestCase.Registration - Added wait Command
+09:03:26.581 [main] INFO  com.selenium.TestCase.Registration - maximizing the Window
+09:03:26.700 [main] INFO  com.selenium.TestCase.Registration - register Object is created ...
+09:04:49.176 [main] INFO  com.selenium.TestCase.Registration - Driver Instance Created
+09:04:54.515 [main] INFO  com.selenium.TestCase.Registration - opened The URL
+09:04:54.528 [main] INFO  com.selenium.TestCase.Registration - Added wait Command
+09:04:54.665 [main] INFO  com.selenium.TestCase.Registration - maximizing the Window
+09:04:54.799 [main] INFO  com.selenium.TestCase.Registration - register Object is created ...
+10:45:38.703 [main] INFO  com.selenium.TestCase.Registration - Driver Instance Created
+10:45:44.446 [main] INFO  com.selenium.TestCase.Registration - opened The URL
+10:45:44.456 [main] INFO  com.selenium.TestCase.Registration - Added wait Command
+10:45:44.594 [main] INFO  com.selenium.TestCase.Registration - maximizing the Window
+10:45:44.706 [main] INFO  com.selenium.TestCase.Registration - register Object is created ...
+10:47:57.668 [main] INFO  com.selenium.TestCase.Registration - Driver Instance Created
+10:48:07.473 [main] INFO  com.selenium.TestCase.Registration - opened The URL
+10:48:07.489 [main] INFO  com.selenium.TestCase.Registration - Added wait Command
+10:48:07.627 [main] INFO  com.selenium.TestCase.Registration - maximizing the Window
+10:48:08.096 [main] INFO  com.selenium.TestCase.Registration - register Object is created ...
