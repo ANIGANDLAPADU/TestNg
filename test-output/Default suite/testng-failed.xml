@@ -6,6 +6,7 @@
       <class name="com.selenium.TestCase.Registration">
         <methods>
           <include name="testing"/>
+          <include name="teardown"/>
           <include name="Down"/>
           <include name="Radio"/>
           <include name="start"/>

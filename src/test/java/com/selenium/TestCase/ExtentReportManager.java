@@ -65,6 +65,7 @@ public class ExtentReportManager implements ITestListener {
 		} catch (IOException e1) {
 			e1.printStackTrace();
 		}
+
 	}
 
 	public void onTestSkipped(ITestResult result) {

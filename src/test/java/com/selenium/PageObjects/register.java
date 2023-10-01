@@ -5,16 +5,12 @@ import java.util.List;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.Select;
 
-import com.selenium.TestBase.baseclass;
+public class register {
 
-public class register extends baseclass {
-
-	public register(WebDriver driver) {
-		super(driver);
-
-	}
+	WebDriver driver;
 
 	@FindBy(xpath = "//input[@id='name']")
 	WebElement Name;
@@ -42,14 +38,20 @@ public class register extends baseclass {
 	 * 
 	 * }
 	 */
-	public List<WebElement> checkbox(){
+
+	public List<WebElement> checkbox() {
 		return list;
-		
+
 	}
 
 	public void DropDown(String se) {
 		Select select = new Select(dropdown);
-		   select.selectByValue(se);
+		select.selectByValue(se);
+	}
+
+	public register(WebDriver driver) {
+		this.driver = driver;
+		PageFactory.initElements(driver, this);
 	}
 
 }

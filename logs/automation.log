@@ -117,3 +117,43 @@
 10:48:07.489 [main] INFO  com.selenium.TestCase.Registration - Added wait Command
 10:48:07.627 [main] INFO  com.selenium.TestCase.Registration - maximizing the Window
 10:48:08.096 [main] INFO  com.selenium.TestCase.Registration - register Object is created ...
+12:36:00.728 [main] INFO  com.selenium.TestCase.Registration - Driver Instance Created
+12:36:07.131 [main] INFO  com.selenium.TestCase.Registration - opened The URL
+12:36:07.152 [main] INFO  com.selenium.TestCase.Registration - Added wait Command
+12:36:07.307 [main] INFO  com.selenium.TestCase.Registration - maximizing the Window
+12:36:08.101 [main] INFO  com.selenium.TestCase.Registration - register Object is created ...
+12:37:31.982 [main] INFO  com.selenium.TestCase.Registration - Driver Instance Created
+12:37:39.734 [main] INFO  com.selenium.TestCase.Registration - opened The URL
+12:37:39.747 [main] INFO  com.selenium.TestCase.Registration - Added wait Command
+12:37:39.891 [main] INFO  com.selenium.TestCase.Registration - maximizing the Window
+12:37:40.409 [main] INFO  com.selenium.TestCase.Registration - register Object is created ...
+12:38:34.003 [main] INFO  com.selenium.TestCase.Registration - Driver Instance Created
+12:38:42.528 [main] INFO  com.selenium.TestCase.Registration - opened The URL
+12:38:42.543 [main] INFO  com.selenium.TestCase.Registration - Added wait Command
+12:38:42.684 [main] INFO  com.selenium.TestCase.Registration - maximizing the Window
+12:38:43.227 [main] INFO  com.selenium.TestCase.Registration - register Object is created ...
+12:50:09.052 [main] INFO  com.selenium.TestCase.Registration - Driver Instance Created
+12:50:17.030 [main] INFO  com.selenium.TestCase.Registration - opened The URL
+12:50:17.050 [main] INFO  com.selenium.TestCase.Registration - Added wait Command
+12:50:17.200 [main] INFO  com.selenium.TestCase.Registration - maximizing the Window
+12:50:17.745 [main] INFO  com.selenium.TestCase.Registration - register Object is created ...
+12:53:30.118 [main] INFO  com.selenium.TestCase.Registration - Driver Instance Created
+12:53:36.595 [main] INFO  com.selenium.TestCase.Registration - opened The URL
+12:53:36.609 [main] INFO  com.selenium.TestCase.Registration - Added wait Command
+12:53:36.760 [main] INFO  com.selenium.TestCase.Registration - maximizing the Window
+12:53:37.302 [main] INFO  com.selenium.TestCase.Registration - register Object is created ...
+12:54:16.585 [main] INFO  com.selenium.TestCase.Registration - Driver Instance Created
+12:54:22.953 [main] INFO  com.selenium.TestCase.Registration - opened The URL
+12:54:22.971 [main] INFO  com.selenium.TestCase.Registration - Added wait Command
+12:54:23.134 [main] INFO  com.selenium.TestCase.Registration - maximizing the Window
+12:54:23.663 [main] INFO  com.selenium.TestCase.Registration - register Object is created ...
+12:55:39.160 [main] INFO  com.selenium.TestCase.Registration - Driver Instance Created
+12:55:45.366 [main] INFO  com.selenium.TestCase.Registration - opened The URL
+12:55:45.379 [main] INFO  com.selenium.TestCase.Registration - Added wait Command
+12:55:45.527 [main] INFO  com.selenium.TestCase.Registration - maximizing the Window
+12:55:46.061 [main] INFO  com.selenium.TestCase.Registration - register Object is created ...
+08:26:35.395 [main] INFO  com.selenium.TestCase.Registration - Driver Instance Created
+08:26:42.457 [main] INFO  com.selenium.TestCase.Registration - opened The URL
+08:26:42.474 [main] INFO  com.selenium.TestCase.Registration - Added wait Command
+08:26:42.633 [main] INFO  com.selenium.TestCase.Registration - maximizing the Window
+08:26:43.376 [main] INFO  com.selenium.TestCase.Registration - register Object is created ...

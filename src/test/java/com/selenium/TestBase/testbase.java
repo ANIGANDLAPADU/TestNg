@@ -17,9 +17,10 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Listeners;
+
 @Listeners(com.selenium.TestCase.ExtentReportManager.class)
 public class testbase {
-	public WebDriver driver;
+	public static WebDriver driver;
 	public Logger logger;
 	public ResourceBundle rb;
 
